@@ -10,6 +10,6 @@
 | **Uso del lenguaje académico**          |       X        |                |                |             | 
 | **Corrección gramatical y ortográfica** |                |          X     |                |             | 
 | **Reflexión sobre el propio trabajo**   |                |          X     |                |             | 
-| **Total**                               |        8       |       18       |       0        |             | 
+| **Total**                               |        8       |       18       |       0        |     0       | 
 
 **Puntuación total:** 26
