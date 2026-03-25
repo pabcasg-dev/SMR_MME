@@ -3,13 +3,13 @@
 | Criterio                                | Excelente (4)  | Bueno (3)      | En proceso (2) | Inicial (1) |
 |-----------------------------------------|----------------|----------------|----------------|-------------|
 | **Comprensión del tema**                |                |  X             |                |             |      
-| **Investigación y uso de fuentes**      |                |        x       |                |             |               
+| **Investigación y uso de fuentes**      |                |        X       |                |             |               
 | **Organización del texto**              |        X       |                |                |             | 
 | **Comparación y contraste**             |                |       X        |                |             | 
-| **Argumentación y análisis crítico**    |                |        x       |                |             | 
-| **Uso del lenguaje académico**          |       x        |                |                |             | 
-| **Corrección gramatical y ortográfica** |                |          x     |                |             | 
-| **Reflexión sobre el propio trabajo**   |                |          x     |                |             | 
+| **Argumentación y análisis crítico**    |                |        X       |                |             | 
+| **Uso del lenguaje académico**          |       X        |                |                |             | 
+| **Corrección gramatical y ortográfica** |                |          X     |                |             | 
+| **Reflexión sobre el propio trabajo**   |                |          X     |                |             | 
 | **Total**                               |        8       |       18       |       0        |             | 
 
 **Puntuación total:** 26
