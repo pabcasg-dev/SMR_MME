@@ -13,3 +13,9 @@
 | **Total**                               |        8       |       18       |       0        |     0       | 
 
 **Puntuación total:** 26
+
+Reflexión final:
+
+**¿Qué aprendí sobre el tema de los procesadores?**
+**¿Qué mejoraría en mi ensayo si tuviera más tiempo?**
+**¿Qué estrategias de investigación me resultaron más útiles?**
