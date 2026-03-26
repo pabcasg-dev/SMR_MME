@@ -21,5 +21,7 @@ Que tiene un futuro prometedor, no tenía ni idea de este tema y gracias a hacer
 He aprendido el uso de los QuBits, y del uso que tendrán en un futuro los chips cuánticos y neuromórficos.   
 **¿Qué mejoraría en mi ensayo si tuviera más tiempo?**\
 Mejoraría la presentación buscando mas imágenes ya que creo que con imágenes se entiende todo mucho mejor.  
-También pondría datos mas relevantes e importantes
-**¿Qué estrategias de investigación me resultaron más útiles?**\
+También pondría datos mas relevantes e importantes  
+**¿Qué estrategias de investigación me resultaron más útiles?**  
+La busca de información en fuentes fiables, paginas web y artículos y el organizar los apartados  
+en funcionamiento, uso y rendimiento.
