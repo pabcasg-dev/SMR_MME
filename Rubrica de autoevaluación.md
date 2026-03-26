@@ -18,6 +18,6 @@ Reflexión final:
 
 **¿Qué aprendí sobre el tema de los procesadores?**\
 Que tiene un futuro prometedor, no tenía ni idea de este tema y gracias a hacer la redacción me he informado y he aprendido sobre este tema.\
-He aprendido el uso de los QuBits, y del uso que tendrán en un futuro los chips cuánticos y neuromórficos.\ 
+He aprendido el uso de los QuBits, y del uso que tendrán en un futuro los chips cuánticos y neuromórficos.   
 **¿Qué mejoraría en mi ensayo si tuviera más tiempo?**\
 **¿Qué estrategias de investigación me resultaron más útiles?**\
